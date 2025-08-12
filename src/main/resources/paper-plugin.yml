@@ -1,0 +1,4 @@
+name: AIPlugin
+version: '1.0-SNAPSHOT'
+main: org.aIPlugin.AIPlugin
+api-version: '1.21'
