@@ -2,3 +2,8 @@ name: AIPlugin
 version: '1.0-SNAPSHOT'
 main: org.aIPlugin.AIPlugin
 api-version: '1.21'
+
+commands:
+  ask:
+    description: 'Ask the AI something!'
+    usage: '/ask <question>'

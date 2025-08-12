@@ -1,0 +1,1 @@
+not everyone knows everything about minecraft. for example you want to know how villagers are breeding, most people would go alt+tab and google it, but what if you do not need to do that?! you just ask the AI directly in the game! that's what AIPlugin is about

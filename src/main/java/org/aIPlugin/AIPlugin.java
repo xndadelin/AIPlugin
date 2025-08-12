@@ -6,12 +6,13 @@ public final class AIPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        getLogger().info("AI Plugin is enabled! yey!");
+        this.getCommand("ask").setExecutor(new AICommand());
 
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        getLogger().info("AI Plugin is disabled! nooo!");
     }
 }
